@@ -1,0 +1,55 @@
+.satl-font ,
+.satl-font h1,
+.satl-font h2,
+.satl-font h3,
+.satl-font h4,
+.satl-font h5{
+    font-family: iranyekan !important;
+}
+.footer-satl-table .total-task-count {
+    right: auto;
+    left: 0;
+}
+.topbutton {
+    right: auto;
+    left: 15px;
+}
+table.table-tasks thead tr th:first-child {
+    border-radius:  0 6px 6px 0  !important;
+}
+table.table-tasks thead tr th:last-child {
+    border-radius: 6px 0 0 6px !important;
+}
+.pagination-list #btn_prev:before {
+    right: 0;
+    left: auto;
+    content: "\f345";
+}
+.pagination-list #btn_next:after {
+    right: auto;
+    left: 0;
+    content: "\f341";
+}
+.select2-container--bootstrap4 .select2-selection--single .select2-selection__arrow {
+    right: auto;
+    left: 3px;
+}
+.nav-tabs li {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.info-msg ,.des-txt,.description-msg{
+    text-align: right;
+}
+.pagination-list .btn {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.time_btn_msg{
+    text-align: left;
+}
+
+span.back-tab:before {
+    content: "\f345";
+}
